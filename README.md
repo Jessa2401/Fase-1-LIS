@@ -21,3 +21,4 @@ Adaptar — remezclar, transformar y construir a partir del material.
 La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia.
 
 ## Otros
+- Trello: [https://trello.com/invite/b/67c73f781990e46f72a916fd/ATTIe0a9886d3426ef49402bf6d70f58d24cF0BB8D3A/proyecto-de-catedra-lis-02t-grupo-01]
